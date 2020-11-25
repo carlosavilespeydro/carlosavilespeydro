@@ -1,8 +1,8 @@
-Bienvenido a mi perfil de Github
+# BIenvenido a mi perfil de GitHub
 
-# Soy Carlos Avilés. Actualmente trabajo como adminitrador de sistemas, pero también soy programador freelance.
+### Soy Carlos Avilés. Actualmente trabajo como adminitrador de sistemas, pero también soy programador freelance.
 
-# Utilizo diferentes lenguajes y frameworks:
+### Utilizo diferentes lenguajes y frameworks:
 
   - WEB: Flask, javascript & boostrap.
   
