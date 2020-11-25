@@ -1,4 +1,4 @@
-# BIenvenido a mi perfil de GitHub
+# Bienvenido a mi perfil de GitHub
 
 ### Soy Carlos Avilés. Actualmente trabajo como adminitrador de sistemas, pero también soy programador freelance.
 
